@@ -1,0 +1,3 @@
+spring.cloud.discovery.client.simple.instances:
+    fake-client:
+        - uri: https://jsonplaceholder.typicode.com
